@@ -1,7 +1,8 @@
 # Kubernetes 1.30.2 Cluster Setup on Ubuntu 22.04 LTS
 ![k8s install](https://github.com/user-attachments/assets/cd8e5dae-42b6-42e6-af9a-acf15532dc54)
 
-  https://youtu.be/_TK1Aq979sg
+watch video below
+https://youtu.be/_TK1Aq979sg
 
 This guide provides step-by-step instructions to set up a Kubernetes 1.30.2 cluster on Ubuntu 22.04 LTS.
 
